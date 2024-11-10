@@ -1,4 +1,3 @@
-
 from camera import open_cam  
 from drone_movement import control_drone 
 from read_barcode import process_barcode  
