@@ -86,12 +86,6 @@ Aceitamos contribuições para melhorar este projeto! Aqui estão algumas formas
 3. Envie um pull request com uma explicação clara das suas mudanças.
 
 
-## Agradecimentos
-
-- **OpenCV**: Para operações de visão computacional, como leitura de frames de vídeo.
-- **MediaPipe**: Para detecção de mãos e poses no módulo de controle do drone.
-- **Pyzbar**: Para leitura de códigos de barras e QR codes.
-- **DroneKit**: Para controle do movimento do drone.
 
 Para mais informações sobre qualquer um dos módulos ou bibliotecas usadas, consulte a documentação oficial:
 - [Documentação OpenCV](https://docs.opencv.org/)
@@ -99,9 +93,5 @@ Para mais informações sobre qualquer um dos módulos ou bibliotecas usadas, co
 - [Documentação Pyzbar](https://pyzbar.readthedocs.io/)
 - [Documentação DroneKit](http://python.dronekit.io/)
 
----
-
-Para quaisquer dúvidas ou problemas, fique à vontade para abrir um issue no repositório.
-```
 
 
