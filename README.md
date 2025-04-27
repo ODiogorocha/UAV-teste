@@ -104,16 +104,4 @@ Para mais informações sobre qualquer um dos módulos ou bibliotecas usadas, co
 Para quaisquer dúvidas ou problemas, fique à vontade para abrir um issue no repositório.
 ```
 
----
 
-### Explicação das Seções do `README.md`:
-
-1. **Visão Geral do Projeto**: Descreve as funcionalidades principais e objetivos do projeto.
-2. **Requisitos**: Lista as dependências necessárias e como instalá-las.
-3. **Estrutura do Projeto**: Fornece uma explicação clara da estrutura do repositório para ajudar os usuários a entenderem o layout do código.
-4. **Como Usar**: Instruções sobre como rodar o sistema, controlar o drone e processar códigos de barras e QR codes.
-5. **Contribuindo**: Oferece diretrizes para quem deseja contribuir com o projeto.
-6. **Licença**: Esclarece as permissões de uso e contribuições sob a Licença MIT.
-7. **Agradecimentos**: Cita as bibliotecas e ferramentas usadas no projeto e fornece links para as documentações oficiais.
-
-Este `README.md` fornece uma visão geral clara e profissional do repositório, além de guiar os usuários na instalação, uso e contribuição para o projeto.
